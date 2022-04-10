@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @willianra
 - 👀 I’m interested in mobile developer
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently working like full stack
 - 💞️ I’m looking to collaborate on flutter 
-- 📫 How to reach me willianrojasalba
+- 📫 How to reach me willianrojasa@gmail.com
 
 <!---
 willianra/willianra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
